@@ -1,6 +1,6 @@
-# mymovies
+# movies db
 
-A new Flutter project.
+Find movies you want to watch!
 
 ## Getting Started
 
