@@ -1,6 +1,6 @@
 # movies db
 
-Find movies you want to watch!
+Find movies you want to watch and save in watchlist.
 
 ## Getting Started
 
